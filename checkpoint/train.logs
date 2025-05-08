@@ -1,0 +1,16 @@
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] workers: 0
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] devices_id: 0
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] test_initial: False
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] base_lr: 0.0001
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] weight_decay: 1e-06
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] lr_patience: 40
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] start_epoch: 1
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] end_epoch: 500
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] snapshot: ./checkpoint/snapshot/
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] log_file: ./checkpoint/train.logs
+[2025-04-18 13:15:34,748] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] tensorboard: ./checkpoint/tensorboard
+[2025-04-18 13:15:34,749] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] resume: 
+[2025-04-18 13:15:34,749] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] dataroot: ./data/train_data/list.txt
+[2025-04-18 13:15:34,749] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] val_dataroot: ./data/test_data/list.txt
+[2025-04-18 13:15:34,749] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] train_batchsize: 256
+[2025-04-18 13:15:34,749] [p20636] [C:\Users\dung\PycharmProjects\PythonProject1\PFLD-pytorch\train.py:31] [INFO] val_batchsize: 256
